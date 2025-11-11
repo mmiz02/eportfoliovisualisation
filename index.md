@@ -25,6 +25,6 @@ This e-portfolio has significantly contributed to my professional and personal g
 ### Visualising Data October 2025 - e-Portfolio Entries
 
 *   [Week 1: Case Study](week1.md)
-*   
+*   [Week 2: Starting the Discussion](week2.md)
 ---
 
