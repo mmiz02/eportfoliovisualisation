@@ -27,5 +27,6 @@ This e-portfolio has significantly contributed to my professional and personal g
 *   [Week 1: Case Study](week1.md)
 *   [Week 2: Starting the Discussion](week2.md)
 *   [Week 3: Continuing the Discussion](week3.md)
+*   [Week 12: The Future of Data Visualisation - AR and VR: A Reflection](week12.md)
 ---
 
