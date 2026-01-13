@@ -1,0 +1,7 @@
+**Week 6: Visualising Classification Models**
+
+In Week 6, I worked on a practical exercise exploring supervised classification and how to visualise model performance. Using a small dataset of ten observations, I applied a classifier that gave the probability of each instance being in class 1. By testing different thresholds (t), I created predicted classes (Y-hat) and calculated true positives (TP), false positives (FP), true negatives (TN), and false negatives (FN).
+
+This let me build an ROC curve and calculate Youden’s J statistic (J = TPR – FPR) to find the best threshold. I found that t = 0.84 maximised J and was closest to the top-left of the ROC plot, giving a good balance between recall (TPR) and precision. I also saw that choosing a higher threshold (t = 0.93) reduces false positives but lowers recall, showing how threshold choice depends on the situation.
+
+From this exercise, I learned how confusion matrices and ROC curves can help visualise classification performance and guide decisions. During this week, I also learned about supervised techniques for visualising classification models, including tree-based methods, and the main visual tools used to evaluate classifier performance. In the seminar, we discussed confusion matrices and ROC curves, which helped clarify how performance metrics can be interpreted visually. I later applied both of these methods in the Unit 8 programming exercise, which reinforced my understanding of how visualisation supports model evaluation and decision-making.
