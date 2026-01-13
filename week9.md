@@ -1,0 +1,11 @@
+**Week 9: Designing a Dashboard Draft**
+
+Week 9 highlighted a clear gap between my understanding of dashboard design principles and my execution of them under time pressure. While the lecturecast emphasised the importance of defining business needs, audience requirements, and analytical depth before designing dashboards, my approach was largely shaped by pragmatic constraints rather than best practice.
+
+Due to limited time, I deprioritised the formative Plotly activities and instead focused on building a dashboard in Canva. Although this decision allowed me to produce a visually coherent and business-focused dashboard, it significantly limited the technical and analytical sophistication of my work. In hindsight, this choice weakened the alignment between the module’s emphasis on data-driven, interactive visualisation and my final submission, as Canva restricted reproducibility, transparency, and deeper user interaction.
+
+While the ASOS dashboard successfully communicated key operational metrics and demonstrated an understanding of the target audience, the feedback revealed shortcomings in structure, critical justification, and use of relevant sources. This indicates that my design decisions were not sufficiently grounded in theory or supported by evidence. I relied too heavily on intuitive design choices rather than explicitly linking visual elements to established dashboard and visualisation principles. As a result, the work appeared functional but not analytically rigorous.
+
+Critically, this week exposed weaknesses in my time management and prioritisation. By focusing on output rather than process, I failed to fully engage with the formative activities that could have strengthened both my technical skills and my critical understanding. The relatively low overall mark (60) reflects this imbalance between presentation and analytical depth.
+
+Overall, Week 9 was a turning point in recognising that effective dashboard design requires more than clear visuals—it demands structured thinking, technical credibility, and critical justification. Moving forward, I need to adopt a more disciplined approach that balances design, code-based implementation, and theoretical grounding to produce dashboards that are not only visually appealing but also analytically robust and defensible.
