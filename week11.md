@@ -1,0 +1,9 @@
+** Week 11: Gaining confidence with Tableau**
+
+Week 11 built on the previous introduction to Tableau by focusing specifically on dashboard creation, formatting, and interactivity. Through practical exploration, I became more familiar with assembling multiple visualisations into a single dashboard and applying interactive elements such as filters and highlighting. Compared to Week 10, I felt a noticeable increase in confidence when navigating the Tableau interface and understanding how individual charts contribute to a coherent dashboard layout.
+
+Despite this progress, I did not feel sufficiently confident to recreate the dashboard developed in Unit 9 using Tableau. This was partly due to ongoing time constraints, but also due to uncertainty about whether I could match the analytical depth and design clarity of my existing dashboard within the available timeframe. This hesitation reflects a broader challenge in translating conceptual understanding into independent, end-to-end implementation using a new tool.
+
+Critically, this week highlighted that increased familiarity does not automatically equate to mastery. While Tableau lowered the technical barrier to dashboard creation, I still found myself relying on trial-and-error rather than a structured design process grounded in user needs and business questions. As a result, I chose to focus on experimentation rather than full replication, which limited the opportunity to directly compare tool capabilities across platforms.
+
+Overall, Week 11 represented a transition point: I moved from initial exposure to growing competence with Tableau, but also became more aware of my current limitations in confidence, time management, and tool transferability. Going forward, I recognise the need to allocate more dedicated time to consolidating skills and to challenge myself to rebuild existing dashboards using alternative tools to strengthen both technical flexibility and critical evaluation.
