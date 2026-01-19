@@ -8,4 +8,4 @@ In this week’s Lecturecast, I learned more about the principles of data visual
 ## Reflection:
 This week improved my ability to link theory with practice. I can now more critically evaluate websites not just in terms of usability but also in terms of data communication. Next week, I plan to build on this by engaging with my peers’ posts to explore different perspectives on visual design effectiveness.
 
-Made by AI
+
