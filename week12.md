@@ -5,9 +5,11 @@ Focusing on the future of data visualisation, the rise of using AR/VR technologi
 
 The readings highlighted how immersive technologies can enhance understanding by allowing users to interact with data in a more intuitive way. Nichols (2019) discusses how VR enables users to “step inside” data, which I believe could be particularly valuable when assessing radiation dose distributions across facilities or environments. Being able to visualise exposure levels in three dimensions may help identify patterns or risk areas that are less obvious in standard visualisations.
 
-From a practical perspective, AR has clear potential during site inspections. Overlaying real-time radiation readings or regulatory limits onto physical spaces could improve situational awareness and support more informed regulatory decisions. Reflecting on Kurbatov’s (2017) discussion of the human factor, I recognise the importance of designing such visualisations carefully to avoid cognitive overload, particularly in high-risk environments where clarity is critical.
+From a practical perspective, AR has clear potential mostly during training. Such training would be interactive, allowing one to construct rooms with controlled area boundires, hielding, learn about primary and secondary scatter, etc. It could also be used as training for licensees which is practical and hands-on, keeping them interested (which is very important). They may be taught about safety violations and radiation hazards using VR. This may also help standardise radiation safety understanding across entities.
 
-Looking ahead, I can see AR and VR being especially valuable for training, stakeholder engagement, and risk communication. These technologies could help bridge the gap between technical data and public understanding, supporting transparency and trust in regulatory decisions. Overall, this activity has highlighted how immersive visualisation tools, when applied thoughtfully, could complement existing analytical approaches and enhance the effectiveness of radiation protection regulation.
+One must bare in mind Kurbatov’s (2017) discussion of the human factor, recognising the importance of designing such visualisations carefully to avoid cognitive overload, particularly in high-risk environments where clarity is critical.
+
+Overall, I don't see the need for such visualisations as applied to my job directly but I'm certain that many other professions will benefit from AR and VR, especialy when it comes to training, stakeholder engagement, and risk communication, which may help bridge the gap between technical data and public understanding.
 
 **Articles**
 Nichols, G. (2019) Data visualization via VR and AR: How we'll interact with tomorrow's data.
