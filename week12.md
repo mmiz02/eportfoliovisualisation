@@ -11,12 +11,13 @@ One must bare in mind Kurbatov’s (2017) discussion of the human factor, recogn
 
 Overall, I don't see the need for such visualisations as applied to my job directly but I'm certain that many other professions will benefit from AR and VR, especialy when it comes to training, stakeholder engagement, and risk communication, which may help bridge the gap between technical data and public understanding.
 
-**Articles**
-Nichols, G. (2019) Data visualization via VR and AR: How we'll interact with tomorrow's data.
+**References**
+
+Dalton, J. (2016) 5 Reasons to Use Virtual Reality for Data Visualisation.
 
 Kurbatov, V. (2017) Human factor in virtual reality data visualization.
 
-Dalton, J. (2016) 5 Reasons to Use Virtual Reality for Data Visualisation.
+Nichols, G. (2019) Data visualization via VR and AR: How we'll interact with tomorrow's data.
 
 **Reflective Entry: Week 12 – Future of Data Visualisation and Final Dashboard Project**
 
